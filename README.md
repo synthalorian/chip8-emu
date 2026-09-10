@@ -58,7 +58,7 @@ Z X C V     →     A 0 B F
 
 ## License
 
-MIT. ROMs are not included; download from the sources above.
+Apache-2.0. ROMs are not included; download from the sources above.
 
 ---
 
