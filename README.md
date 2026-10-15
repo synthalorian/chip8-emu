@@ -1,3 +1,5 @@
+![chip8-emu](.github/preview.png)
+
 # CHIP-8 EMULATOR
 
 > A classic virtual machine. 35 opcodes. 4K RAM. 64×32 pixels. One beep.
